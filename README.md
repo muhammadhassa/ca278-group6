@@ -2,7 +2,7 @@
 
 
 
-## memebers
+## members
 ### Muhammad Hassan
 ### Alan cordoso
 ### Bart
